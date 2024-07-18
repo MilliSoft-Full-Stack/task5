@@ -40,3 +40,12 @@
  - [relative.html](https://millisoft-full-stack.github.io/task5/relative.html)
 
  - [absolute.html](https://millisoft-full-stack.github.io/task5/absolute.html)
+
+
+target:
+
+https://drive.google.com/drive/folders/1W8K2ZbnRnqtwK0VWNA25UyX07zWl_45r
+
+
+target:
+
